@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Brylian F. S. A11.2019.12169</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string-array name="kurir">
+        <item>JNE</item>
+        <item>Sicepat</item>
+        <item>JNT</item>
+        <item>Ninja</item>
+        <item>AntarAja</item>
+    </string-array>
+
+    <string-array name="pembayaran">
+        <item>BNI</item>
+        <item>Indomart</item>
+        <item>Alfamart</item>
+        <item>BCA</item>
+        <item>COD</item>
+    </string-array>
+
+    <string-array name="topup">
+        <item>Steam</item>
+        <item>Mobile Legend</item>
+        <item>PUBG</item>
+        <item>Garena</item>
+        <item>Free Fire</item>
+    </string-array>
+    <string name="title_activity_lokasi">Lokasi</string>
+</resources>
